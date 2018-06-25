@@ -1,1 +1,1 @@
-# base_things
+# Main machine learning algorithms code
